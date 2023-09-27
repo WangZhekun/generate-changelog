@@ -20,5 +20,6 @@ coverage
 
 .idea/
 .DS_Store
+.vscode/
 
 xunit.xml
