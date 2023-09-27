@@ -1,3 +1,13 @@
+#### 1.8.1-0 (2023-09-27)
+
+##### New Features
+
+* **preversion:**   generate  preversion changelog ([20b983a7](https://github.com/lob/generate-changelog/commit/20b983a7b9ecae2855a52af2f58dbcc88bbe35ed))
+
+##### Bug Fixes
+
+* **documentation:**  quick typo fix ([#57](https://github.com/lob/generate-changelog/pull/57)) ([7e9ffd66](https://github.com/lob/generate-changelog/commit/7e9ffd66f70503b812f65a36311842b6abbd93c3))
+
 ### 1.8.0 (2019-06-25)
 
 ##### Documentation Changes
